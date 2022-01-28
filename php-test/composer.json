@@ -1,0 +1,17 @@
+{
+    "name": "18510/php-test",
+    "autoload": {
+        "psr-4": {
+            "18510\\PhpTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Minhthien1122",
+            "email": "89249512+Minhthien1122@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.56"
+    }
+}
